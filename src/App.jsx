@@ -8,14 +8,11 @@ function App() {
     <>
       <div className="card">
         <h2>Rich Sanches</h2>
-        <div>
-          <h2>Rich Sanches 2</h2>
-          <h2>Rich Sanches 3</h2>
+        <div className="box-tags">
+          <span>Status: Vivo</span>
+          <span>Espécie: Humana</span>
+          <span>Origem: terra C-137</span>
         </div>
-        <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" />
-      </div>
-      <div className="card">
-        <h2>Rich Sanches</h2>
         <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" />
       </div>
       </>
